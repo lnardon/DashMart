@@ -8,5 +8,5 @@ This is based on a technical interview I had during the selection process for Do
 ### How to run
 Use the command below to execute
 ```bash
-go run main .go
+go run main.go
 ```
